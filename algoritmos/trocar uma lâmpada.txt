@@ -1,0 +1,11 @@
+trocar uma lâmpada
+
+-pegar uma lâmpada nova
+-apagar a luz
+-pegar um banco
+-subir no banco
+-desrosquear a lâmpada 
+-pegar a lâmpada nova
+-rosquear ela
+-descer do banco
+-acender a luz

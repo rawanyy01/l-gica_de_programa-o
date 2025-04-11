@@ -1,0 +1,18 @@
+Algoritmo para trocar um pneu de um carro
+
+-Parar o carro em local seguro e plano.
+-Colocar o triângulo de segurança a cerca de 30 metros atrás do carro.
+-Colocar calços nas rodas (opcional, mas recomendado).
+-Pegar as ferramentas e o estepe no porta-malas.
+-Posicionar o macaco no ponto de apoio indicado pelo fabricante do carro.
+-Erguer o carro com o macaco até o pneu ficar totalmente suspenso.
+-Remover totalmente os parafusos da roda.
+-Retirar o pneu furado.
+-Colocar o estepe no lugar.
+-Recolocar e apertar manualmente os parafusos.
+-Abaixar o carro lentamente com o macaco.
+-Apertar bem os parafusos com a chave de roda, em forma cruzada 
+-Recolher o macaco e ferramentas.
+-Guardar o pneu furado no porta-malas.
+-Remover o triângulo de segurança.
+

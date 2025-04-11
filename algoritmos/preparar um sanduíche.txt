@@ -1,0 +1,17 @@
+preparar um sanduíche
+
+-ir ate a cozinha
+-pegar os ingrediente
+.pão
+.queijo
+.carne
+.salada
+.molho
+-pegar um recipiente para montar o sanduiche
+-pegar o pão
+-passar o molho
+-colocar a carne
+-colocar o queijo
+-por ultimo por a salada
+-comer o lanche
+-em seguida lavar o recipiente
